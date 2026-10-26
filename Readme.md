@@ -4,8 +4,8 @@
 |:----------|:-------------------------|
 | **Nama**  | Muhammad Faqih Muhyiddin |
 | **NIM**   | H1D024068                |
-| **Shift** | E                        |
-
+| **Shift KRS** | E                        |
+| **Shift Akhir** | D                      |
 ---
 
 ## Deskripsi Tugas
